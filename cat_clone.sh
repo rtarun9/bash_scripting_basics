@@ -1,5 +1,7 @@
 #! /usr/bin/bash
 
+set -x
+
 echo "Enter the file name whose contents you want to echo to console"
 read file_name
 
