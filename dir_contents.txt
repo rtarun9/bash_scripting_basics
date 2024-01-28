@@ -1,0 +1,8 @@
+total 8
+-rwxrwxrwx 1 rtarun9 rtarun9  25 Jan 28 07:17 README.md
+-rwxrwxrwx 1 rtarun9 rtarun9 105 Jan 28 07:58 echo_name.sh
+-rwxrwxrwx 1 rtarun9 rtarun9 203 Jan 28 08:06 basic_variables.sh
+-rwxrwxrwx 1 rtarun9 rtarun9  54 Jan 28 08:18 a_sample_file.txt
+-rwxrwxrwx 1 rtarun9 rtarun9 524 Jan 28 08:22 cat_clone.sh
+-rwxrwxrwx 1 rtarun9 rtarun9 549 Jan 28 08:51 command_line_argument_printer.sh
+-rwxrwxrwx 1 rtarun9 rtarun9   0 Jan 28 08:58 dir_contents.txt
